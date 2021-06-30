@@ -1,6 +1,7 @@
 body {
     text-align: center;
     font-size: 80px;
+    background: linear-gradient(#ff195e, #ffa6c2);
 }
 
 .images {
